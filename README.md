@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @russel0719, SNU ECE Student.
-- 👀 I’m interested in AI technology like ML, or DL.
-- 🌱 I’m currently learning Python, DeepLearning, Neural Network
+- 👋 Hi, I’m @russel0719, AI Developer/Researcher.
+- 👀 I’m interested in AI/ML/DL technology especially in the area of Computer Vision.
+- 🌱 So, I’m currently learning Computer Vision task.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me is russel0719@snu.ac.kr
+- 📫 How to reach me is russel0719@naver.com
